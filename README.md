@@ -21,6 +21,20 @@ An NLP and Machine Learning-based resume screening tool that ranks resumes again
 
 ---
 
+## Screenshots
+
+### Home & Upload
+![Home](screenshot1.png)
+
+### Analytics Dashboard
+![Charts](screenshot2.png)
+
+### Ranked Results
+![Results 1](screenshot3.png)
+![Results 2](screenshot4.png)
+
+---
+
 ## Project Structure
 
 ai_resume_screener/
@@ -28,6 +42,7 @@ ai_resume_screener/
 ├── utils.py            -> NLP and ML helper functions
 ├── requirements.txt    -> required packages
 └── README.md           -> this file
+
 ---
 
 ## How to Run
