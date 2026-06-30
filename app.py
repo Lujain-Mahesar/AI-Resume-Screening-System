@@ -1,5 +1,5 @@
 # Resume Screening System
-# Group Members: Lujain Mahesar-(2312120), Aiman Imran-(2312106)
+# Author: Lujain Mahesar (2312120)
 # BSCS 6A
 
 import streamlit as st

@@ -1,5 +1,5 @@
 # Resume Screening System
-**Lujain Mahesar-(2312120), Aiman Imran-(2312106)** 
+**Lujain Mahesar (2312120)** 
 **BSCS 6A | AI Theory Project**
 
 ---
