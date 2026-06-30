@@ -1,0 +1,3 @@
+mkdir .streamlit
+echo '[theme]
+base = "dark"' > .streamlit/config.toml
